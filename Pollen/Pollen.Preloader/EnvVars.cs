@@ -1,8 +1,9 @@
-﻿namespace Pollen.Loader.Doorstop;
+﻿namespace Pollen.Preloader;
 
 public static class EnvVars
 {
-    public static readonly string? DoorstopInitialized,
+    public static readonly string? 
+        DoorstopInitialized,
         DoorstopInvokeDllPath,
         DoorstopProcessPath,
         DoorstopManagedFolderDir,

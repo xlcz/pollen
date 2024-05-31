@@ -2,6 +2,10 @@
 Microsoft Visual Studio Solution File, Format Version 12.00
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pollen.Loader", "Pollen.Loader\Pollen.Loader.csproj", "{F9B58954-0803-4DA0-ACD5-0B07586D3B18}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pollen.API", "Pollen.API\Pollen.API.csproj", "{77084F39-A57E-4ECB-83C6-915854EC5EEA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pollen.Preloader", "Pollen.Preloader\Pollen.Preloader.csproj", "{F8820246-FD77-40D3-961E-E962DFA428D7}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -12,5 +16,13 @@ Global
 		{F9B58954-0803-4DA0-ACD5-0B07586D3B18}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F9B58954-0803-4DA0-ACD5-0B07586D3B18}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F9B58954-0803-4DA0-ACD5-0B07586D3B18}.Release|Any CPU.Build.0 = Release|Any CPU
+		{77084F39-A57E-4ECB-83C6-915854EC5EEA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{77084F39-A57E-4ECB-83C6-915854EC5EEA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{77084F39-A57E-4ECB-83C6-915854EC5EEA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{77084F39-A57E-4ECB-83C6-915854EC5EEA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F8820246-FD77-40D3-961E-E962DFA428D7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F8820246-FD77-40D3-961E-E962DFA428D7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F8820246-FD77-40D3-961E-E962DFA428D7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F8820246-FD77-40D3-961E-E962DFA428D7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
